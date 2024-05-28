@@ -2,7 +2,7 @@ package Practice.Tests_CRUD.GET;
 
 import io.restassured.RestAssured;
 
-public class RATestCase {
+public class BDDStyle {
     public static void main(String[] args) {
 
 

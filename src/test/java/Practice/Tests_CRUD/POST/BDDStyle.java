@@ -1,2 +1,4 @@
-package Practice.Tests_CRUD.POST;public class BDDStyle {
+package Practice.Tests_CRUD.POST;
+
+public class BDDStyle {
 }

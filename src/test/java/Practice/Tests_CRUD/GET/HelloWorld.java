@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Tests_CRUD.GET;
 
 public class HelloWorld {
     public static void main(String[] args) {
